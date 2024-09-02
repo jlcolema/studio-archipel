@@ -1,0 +1,40 @@
+{#
+ # Work index template
+ # -------------------
+ #
+ # This template is loaded whenever http://example.com/work is
+ # requested, because it is located at news/index.html in your
+ # craft/templates/ folder.
+ #
+ # See this page for more details on how Craft routes requests:
+ # http://buildwithcraft.com/docs/routing
+ #}
+
+{% extends "_layout" %}
+{% set title = "Work" %}
+
+{% block content %}
+
+	<h1>Work</h1>
+
+	{% for entry in craft.entries.section('work').find() %}
+
+		<article class="summary">
+
+			<h1><a href="{{ entry.url }}">{{ entry.title }}</a></h1>
+
+			<footer>
+
+				<p>Posted on {{ entry.postDate.format('F d, Y') }}</p>
+
+			</footer>
+
+			{{ entry.body }}
+
+			<p><a href="{{ entry.url }}">Continue reading</a></p>
+
+		</article>
+
+	{% endfor %}
+
+{% endblock %}

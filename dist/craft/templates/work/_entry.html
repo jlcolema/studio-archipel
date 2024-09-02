@@ -1,0 +1,184 @@
+{#
+ # Work entry template
+ # -------------------
+ #
+ # This template gets loaded whenever a Work entry’s URL is
+ # requested. That’s because the Work section’s Template setting is
+ # set to work/_entry”, the path to this template.
+ #
+ # When this template is loaded, it will already have an ‘entry’
+ # variable, set to the requested Work entry.
+ #
+ # See this page for more details on how Craft routes requests:
+ # http://buildwithcraft.com/docs/routing
+ #}
+
+{% extends "_layout" %}
+
+{% block content %}
+
+	<div id="main" role="main">
+
+		<h1>{{ entry.title }}</h1>
+
+		<div class="categories">
+
+			<ul>
+
+				{% for option in entry.categories %}
+
+					<li>{{ option }}</li>
+
+				{% endfor %}
+
+			</ul>
+
+		</div>
+
+		<div class="overview">
+
+			{{ entry.overview }}
+
+		</div>
+
+	</div>
+
+	<div id="samples">
+
+		{% for block in entry.samples %}
+
+			{% if block.type == "image" %}
+
+				{% set image = block.image.first() %}
+
+				{% if block.imageHalfWidth == "0" %}
+
+					{% if image %}
+
+						<div class="image full">
+
+							{% if block.imageurl %}
+
+								<a href="{{ block.imageurl }}">
+
+							{% endif %}
+
+								<img src="{{ image.getUrl() }}" alt="" />
+
+							{% if block.imageurl %}
+
+								</a>
+
+							{% endif %}
+
+						</div>
+
+					{% endif %}
+
+				{% else %}
+
+					{% if image %}
+
+						<div class="image half">
+
+							{% if block.imageurl %}
+
+								<a href="{{ block.imageurl }}">
+
+							{% endif %}
+
+								<img src="{{ image.getUrl() }}" alt="" />
+
+							{% if block.imageurl %}
+
+								</a>
+
+							{% endif %}
+
+						</div>
+
+					{% endif %}
+
+				{% endif %}
+
+			{% elseif block.type == "gif" %}
+
+				{% set image = block.gif.first() %}
+
+				{% if block.gifHalfWidth == "0" %}
+
+					{% if image %}
+
+						<div class="gif full">
+
+							<img src="{{ image.getUrl() }}" alt="" />
+
+						</div>
+
+					{% endif %}
+
+				{% else %}
+
+					{% if image %}
+
+						<div class="gif half">
+
+							<img src="{{ image.getUrl() }}" alt="" />
+
+						</div>
+
+					{% endif %}
+
+				{% endif %}
+
+			{% elseif block.type == "video" %}
+
+				{% if block.videoHalfWidth == "0" %}
+
+					{% if block.iframe %}
+
+						<div class="video full">
+
+							{{ block.iframe | raw }}
+
+						</div>
+
+					{% else %}
+
+						<div class="video full">
+
+							<iframe src="//player.vimeo.com/video/{{ block.video }}?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+						</div>
+
+					{% endif %}
+
+				{% else %}
+
+					{% if block.iframe %}
+
+						<div class="video half">
+
+							{{ block.iframe | raw }}
+
+						</div>
+
+					{% else %}
+
+						<div class="video half">
+
+							<iframe src="//player.vimeo.com/video/{{ block.video }}?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+						</div>
+
+					{% endif %}
+
+				{% endif %}
+
+			{% endif %}
+
+		{% endfor %}
+
+	</div>
+
+{% endblock %}

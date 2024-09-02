@@ -1,0 +1,273 @@
+
+/*-------------------------------------------
+	Pre-Footer
+-------------------------------------------*/
+
+
+#pre-footer {
+
+	padding: 35px 0 30px 0;
+	color: $white;
+	background: $studio;
+
+	@media screen and (min-width: 680px) {
+
+		padding: 0;
+
+	}
+
+	.wrap {
+
+		@media screen and (min-width: 680px) {
+
+			position: relative;
+			padding-top: 45px;
+			padding-bottom: 40px;
+
+		}
+
+	}
+
+}
+
+		.vcard {
+
+			width: 100%;
+			max-width: 1020px;
+			margin: 0 auto 30px auto;
+			padding: 0 0 25px 0;
+			@include font-size(20);
+			line-height: (25/20) + em;
+			@include apercu-bold;
+			text-align: center;
+			border-bottom: 1px solid $white;
+
+			@media screen and (min-width: 680px) {
+
+				@include group;
+
+			}
+
+			.org {
+
+				display: none;
+
+			}
+
+			.email {
+
+				@media screen and (min-width: 680px) {
+
+					float: left;
+					width: 33.33333%;
+
+				}
+
+				a {
+
+					color: $white;
+
+					&:hover {}
+
+				}
+
+			}
+
+			.tel {
+
+				@media screen and (min-width: 680px) {
+
+					float: left;
+					width: 33.33333%;
+
+				}
+
+			}
+
+			.adr {
+
+				@media screen and (min-width: 680px) {
+
+					float: left;
+					width: 33.33333%;
+
+				}
+
+			}
+
+				.street-address {
+
+					display: inline;
+
+				}
+
+				.sep {
+
+					display: none;
+
+				}
+
+				.location {
+
+					display: inline;
+
+				}
+
+					.locality {}
+
+					.region {
+
+						display: none;
+
+					}
+
+					.postal-code {}
+
+		}
+
+		.summary {
+
+			max-width: 1020px;
+			margin: 0 auto 60px auto;
+			@include font-size(20);
+			line-height: (25/20) + em;
+			@include apercu-bold;
+			text-align: center;
+
+			h2 {
+
+				margin-bottom: 1.2em;
+				text-transform: uppercase;
+
+			}
+
+			p {}
+
+		}
+
+		.connect {
+
+			ul {
+
+				margin: 0;
+				padding: 0;
+				list-style: none;
+				text-align: center;
+
+			}
+
+				li {
+
+					display: inline-block;
+					margin: 0 4px;
+					@include hide-text;
+
+				}
+
+					a {
+
+						display: block;
+						width: 36px;
+						height: 36px;
+						background: url(/a/img/connect.svg);
+						@include border-radius(50%);
+
+						&:hover {}
+
+					}
+
+				.facebook {
+
+					a {
+
+						&:hover {
+
+							background-position: 0 -36px;
+
+						}
+
+					}
+
+				}
+
+				.linkedin {
+
+					a {
+
+						background-position: -36px 0;
+
+						&:hover {
+
+							background-position: -36px -36px;
+
+						}
+
+					}
+
+				}
+
+				.skype {
+
+					a {
+
+						background-position: -72px 0;
+
+						&:hover {
+
+							background-position: -72px -36px;
+
+						}
+
+					}
+
+				}
+
+				.behance {
+
+					a {
+
+						background-position: -108px 0;
+
+						&:hover {
+
+							background-position: -108px -36px;
+
+						}
+
+					}
+
+				}
+
+				.tumblr {
+
+					a {
+
+						background-position: -144px 0;
+
+						&:hover {
+
+							background-position: -144px -36px;
+
+						}
+
+					}
+
+				}
+
+				.vimeo {
+
+					a {
+
+						background-position: -180px 0;
+
+						&:hover {
+
+							background-position: -180px -36px;
+
+						}
+
+					}
+
+				}
+
+		}

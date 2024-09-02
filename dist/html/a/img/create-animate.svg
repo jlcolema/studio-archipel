@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: flash2svg, http://dissentgraphics.com/tools/flash2svg -->
+<svg id="Bricks_0211_Adjustments02DExport4" image-rendering="auto" baseProfile="basic" version="1.1" x="0px" y="0px" width="600" height="600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol id="BuildBrick.ai" viewBox="-44 -40.55 295 188.40000000000003">
+      <g id="BuildBrick.ai_0">
+        <g id="element266" overflow="visible">
+          <g id="Symbol_45_0">
+            <g id="element281">
+              <path id="path5" fill="#FFF" d="M206.95,25.4 L204.95,25.4 204.95,20.4 12.95,20.4 12.95,25.4 11.95,25.4 11.95,106.4 206.95,106.4 206.95,25.4z"/>
+            </g>
+            <g id="element282">
+              <path id="path6" fill="none" stroke="#1D4858" stroke-width="18.85" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="10" d="M200.95,97.85 L200.95,9.45 9.45,9.45 9.45,97.85 200.95,97.85z"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </symbol>
+  </defs>
+  <g id="Scene_2" overflow="visible">
+    <g id="Scene_1_13_12">
+      <g id="element262" overflow="visible">
+        <g id="Symbol_43_0">
+          <use xlink:href="#BuildBrick.ai" id="element278" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 488.9)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.375;0.406;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_11">
+      <use xlink:href="#BuildBrick.ai" id="element261" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 483.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.344;0.375;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_10">
+      <use xlink:href="#BuildBrick.ai" id="element260" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 478.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.313;0.344;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_9">
+      <use xlink:href="#BuildBrick.ai" id="element259" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 472.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.281;0.313;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_8">
+      <use xlink:href="#BuildBrick.ai" id="element258" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 467.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.25;0.281;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_7">
+      <use xlink:href="#BuildBrick.ai" id="element257" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 462.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.219;0.25;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_6">
+      <use xlink:href="#BuildBrick.ai" id="element256" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 456.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.188;0.219;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_5">
+      <use xlink:href="#BuildBrick.ai" id="element255" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 451.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.156;0.188;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_4">
+      <use xlink:href="#BuildBrick.ai" id="element254" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 445.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.125;0.156;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_3">
+      <use xlink:href="#BuildBrick.ai" id="element253" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 440.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.094;0.125;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_2">
+      <use xlink:href="#BuildBrick.ai" id="element252" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 435.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.063;0.094;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_1">
+      <use xlink:href="#BuildBrick.ai" id="element251" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 429.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;0.063;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_13_0">
+      <use xlink:href="#BuildBrick.ai" id="element250" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 424.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;1" values="inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_12">
+      <g id="element249" overflow="visible">
+        <g id="Symbol_41_0">
+          <use xlink:href="#BuildBrick.ai" id="element277" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 488.9)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.375;0.406;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_11">
+      <use xlink:href="#BuildBrick.ai" id="element248" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 483.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.344;0.375;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_10">
+      <use xlink:href="#BuildBrick.ai" id="element247" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 478.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.313;0.344;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_9">
+      <use xlink:href="#BuildBrick.ai" id="element246" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 472.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.281;0.313;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_8">
+      <use xlink:href="#BuildBrick.ai" id="element245" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 467.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.25;0.281;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_7">
+      <use xlink:href="#BuildBrick.ai" id="element244" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 462.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.219;0.25;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_6">
+      <use xlink:href="#BuildBrick.ai" id="element243" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 456.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.188;0.219;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_5">
+      <use xlink:href="#BuildBrick.ai" id="element242" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 451.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.156;0.188;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_4">
+      <use xlink:href="#BuildBrick.ai" id="element241" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 445.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.125;0.156;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_3">
+      <use xlink:href="#BuildBrick.ai" id="element240" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 440.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.094;0.125;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_2">
+      <use xlink:href="#BuildBrick.ai" id="element239" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 435.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.063;0.094;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_1">
+      <use xlink:href="#BuildBrick.ai" id="element238" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 429.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;0.063;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_12_0">
+      <use xlink:href="#BuildBrick.ai" id="element237" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 424.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;1" values="inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_12">
+      <g id="element236" overflow="visible">
+        <g id="Symbol_39_0">
+          <use xlink:href="#BuildBrick.ai" id="element276" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 488.9)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.375;0.406;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_11">
+      <use xlink:href="#BuildBrick.ai" id="element235" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 483.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.344;0.375;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_10">
+      <use xlink:href="#BuildBrick.ai" id="element234" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 478.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.313;0.344;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_9">
+      <use xlink:href="#BuildBrick.ai" id="element233" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 472.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.281;0.313;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_8">
+      <use xlink:href="#BuildBrick.ai" id="element232" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 467.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.25;0.281;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_7">
+      <use xlink:href="#BuildBrick.ai" id="element231" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 462.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.219;0.25;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_6">
+      <use xlink:href="#BuildBrick.ai" id="element230" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 456.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.188;0.219;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_5">
+      <use xlink:href="#BuildBrick.ai" id="element229" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 451.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.156;0.188;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_4">
+      <use xlink:href="#BuildBrick.ai" id="element228" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 445.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.125;0.156;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_3">
+      <use xlink:href="#BuildBrick.ai" id="element227" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 440.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.094;0.125;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_2">
+      <use xlink:href="#BuildBrick.ai" id="element226" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 435.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.063;0.094;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_1">
+      <use xlink:href="#BuildBrick.ai" id="element225" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 429.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;0.063;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_11_0">
+      <use xlink:href="#BuildBrick.ai" id="element224" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 424.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;1" values="inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_29">
+      <g id="element223" overflow="visible">
+        <g id="Symbol_37_0">
+          <use xlink:href="#BuildBrick.ai" id="element275" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 491.75)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.906;0.938;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_28">
+      <use xlink:href="#BuildBrick.ai" id="element222" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 486.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.875;0.906;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_27">
+      <use xlink:href="#BuildBrick.ai" id="element221" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 481)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.844;0.875;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_26">
+      <use xlink:href="#BuildBrick.ai" id="element220" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 475.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.813;0.844;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_25">
+      <use xlink:href="#BuildBrick.ai" id="element219" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 470.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.781;0.813;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_24">
+      <use xlink:href="#BuildBrick.ai" id="element218" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 464.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.75;0.781;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_23">
+      <use xlink:href="#BuildBrick.ai" id="element217" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 459.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.719;0.75;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_22">
+      <use xlink:href="#BuildBrick.ai" id="element216" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 454.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.688;0.719;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_21">
+      <use xlink:href="#BuildBrick.ai" id="element215" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 448.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.656;0.688;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_20">
+      <use xlink:href="#BuildBrick.ai" id="element214" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 443.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.625;0.656;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_19">
+      <use xlink:href="#BuildBrick.ai" id="element213" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 438.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.594;0.625;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_18">
+      <use xlink:href="#BuildBrick.ai" id="element212" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 432.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.563;0.594;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_17">
+      <use xlink:href="#BuildBrick.ai" id="element211" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 427.35)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.531;0.563;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_16">
+      <use xlink:href="#BuildBrick.ai" id="element210" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 421.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.5;0.531;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_15">
+      <use xlink:href="#BuildBrick.ai" id="element209" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 416.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.469;0.5;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_14">
+      <use xlink:href="#BuildBrick.ai" id="element208" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 411.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.438;0.469;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_13">
+      <use xlink:href="#BuildBrick.ai" id="element207" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 405.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.406;0.438;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_12">
+      <use xlink:href="#BuildBrick.ai" id="element206" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 400.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.375;0.406;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_11">
+      <use xlink:href="#BuildBrick.ai" id="element205" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 395.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.344;0.375;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_10">
+      <use xlink:href="#BuildBrick.ai" id="element204" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 389.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.313;0.344;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_9">
+      <use xlink:href="#BuildBrick.ai" id="element203" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 384.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.281;0.313;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_8">
+      <use xlink:href="#BuildBrick.ai" id="element202" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 379)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.25;0.281;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_7">
+      <use xlink:href="#BuildBrick.ai" id="element201" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 373.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.219;0.25;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_6">
+      <use xlink:href="#BuildBrick.ai" id="element200" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 368.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.188;0.219;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_5">
+      <use xlink:href="#BuildBrick.ai" id="element199" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 362.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.156;0.188;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_4">
+      <use xlink:href="#BuildBrick.ai" id="element198" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 357.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.125;0.156;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_3">
+      <use xlink:href="#BuildBrick.ai" id="element197" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 352.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.094;0.125;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_2">
+      <use xlink:href="#BuildBrick.ai" id="element196" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 346.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.063;0.094;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_1">
+      <use xlink:href="#BuildBrick.ai" id="element195" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 341.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;0.063;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_10_0">
+      <use xlink:href="#BuildBrick.ai" id="element194" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 336.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;1" values="inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_29">
+      <g id="element193" overflow="visible">
+        <g id="Symbol_35_0">
+          <use xlink:href="#BuildBrick.ai" id="element274" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 491.75)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.906;0.938;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_28">
+      <use xlink:href="#BuildBrick.ai" id="element192" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 486.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.875;0.906;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_27">
+      <use xlink:href="#BuildBrick.ai" id="element191" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 481)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.844;0.875;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_26">
+      <use xlink:href="#BuildBrick.ai" id="element190" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 475.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.813;0.844;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_25">
+      <use xlink:href="#BuildBrick.ai" id="element189" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 470.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.781;0.813;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_24">
+      <use xlink:href="#BuildBrick.ai" id="element188" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 464.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.75;0.781;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_23">
+      <use xlink:href="#BuildBrick.ai" id="element187" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 459.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.719;0.75;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_22">
+      <use xlink:href="#BuildBrick.ai" id="element186" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 454.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.688;0.719;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_21">
+      <use xlink:href="#BuildBrick.ai" id="element185" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 448.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.656;0.688;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_20">
+      <use xlink:href="#BuildBrick.ai" id="element184" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 443.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.625;0.656;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_19">
+      <use xlink:href="#BuildBrick.ai" id="element183" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 438.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.594;0.625;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_18">
+      <use xlink:href="#BuildBrick.ai" id="element182" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 432.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.563;0.594;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_17">
+      <use xlink:href="#BuildBrick.ai" id="element181" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 427.35)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.531;0.563;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_16">
+      <use xlink:href="#BuildBrick.ai" id="element180" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 421.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.5;0.531;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_15">
+      <use xlink:href="#BuildBrick.ai" id="element179" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 416.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.469;0.5;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_14">
+      <use xlink:href="#BuildBrick.ai" id="element178" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 411.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.438;0.469;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_13">
+      <use xlink:href="#BuildBrick.ai" id="element177" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 405.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.406;0.438;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_12">
+      <use xlink:href="#BuildBrick.ai" id="element176" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 400.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.375;0.406;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_11">
+      <use xlink:href="#BuildBrick.ai" id="element175" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 395.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.344;0.375;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_10">
+      <use xlink:href="#BuildBrick.ai" id="element174" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 389.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.313;0.344;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_9">
+      <use xlink:href="#BuildBrick.ai" id="element173" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 384.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.281;0.313;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_8">
+      <use xlink:href="#BuildBrick.ai" id="element172" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 379)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.25;0.281;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_7">
+      <use xlink:href="#BuildBrick.ai" id="element171" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 373.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.219;0.25;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_6">
+      <use xlink:href="#BuildBrick.ai" id="element170" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 368.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.188;0.219;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_5">
+      <use xlink:href="#BuildBrick.ai" id="element169" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 362.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.156;0.188;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_4">
+      <use xlink:href="#BuildBrick.ai" id="element168" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 357.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.125;0.156;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_3">
+      <use xlink:href="#BuildBrick.ai" id="element167" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 352.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.094;0.125;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_2">
+      <use xlink:href="#BuildBrick.ai" id="element166" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 346.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.063;0.094;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_1">
+      <use xlink:href="#BuildBrick.ai" id="element165" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 341.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;0.063;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_9_0">
+      <use xlink:href="#BuildBrick.ai" id="element164" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 336.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;1" values="inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_32">
+      <g id="element163" overflow="visible">
+        <g id="Symbol_33_0">
+          <use xlink:href="#BuildBrick.ai" id="element273" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 419.05)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;1;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_8_31">
+      <use xlink:href="#BuildBrick.ai" id="element162" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 413.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.969;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_8_30">
+      <use xlink:href="#BuildBrick.ai" id="element161" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 408.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.938;0.969;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_29">
+      <use xlink:href="#BuildBrick.ai" id="element160" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 402.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.906;0.938;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_28">
+      <use xlink:href="#BuildBrick.ai" id="element159" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 397.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.875;0.906;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_27">
+      <use xlink:href="#BuildBrick.ai" id="element158" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 392.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.844;0.875;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_26">
+      <use xlink:href="#BuildBrick.ai" id="element157" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 386.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.813;0.844;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_25">
+      <use xlink:href="#BuildBrick.ai" id="element156" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 381.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.781;0.813;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_24">
+      <use xlink:href="#BuildBrick.ai" id="element155" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 376.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.75;0.781;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_23">
+      <use xlink:href="#BuildBrick.ai" id="element154" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 370.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.719;0.75;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_22">
+      <use xlink:href="#BuildBrick.ai" id="element153" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 365.35)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.688;0.719;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_21">
+      <use xlink:href="#BuildBrick.ai" id="element152" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 360)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.656;0.688;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_20">
+      <use xlink:href="#BuildBrick.ai" id="element151" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 354.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.625;0.656;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_19">
+      <use xlink:href="#BuildBrick.ai" id="element150" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 349.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.594;0.625;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_18">
+      <use xlink:href="#BuildBrick.ai" id="element149" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 343.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.563;0.594;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_17">
+      <use xlink:href="#BuildBrick.ai" id="element148" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 338.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.531;0.563;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_16">
+      <use xlink:href="#BuildBrick.ai" id="element147" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 333.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.5;0.531;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_15">
+      <use xlink:href="#BuildBrick.ai" id="element146" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 327.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.469;0.5;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_14">
+      <use xlink:href="#BuildBrick.ai" id="element145" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 322.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.438;0.469;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_13">
+      <use xlink:href="#BuildBrick.ai" id="element144" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 317.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.406;0.438;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_12">
+      <use xlink:href="#BuildBrick.ai" id="element143" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 311.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.375;0.406;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_11">
+      <use xlink:href="#BuildBrick.ai" id="element142" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 306.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.344;0.375;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_10">
+      <use xlink:href="#BuildBrick.ai" id="element141" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 300.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.313;0.344;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_9">
+      <use xlink:href="#BuildBrick.ai" id="element140" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 295.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.281;0.313;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_8">
+      <use xlink:href="#BuildBrick.ai" id="element139" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 290.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.25;0.281;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_7">
+      <use xlink:href="#BuildBrick.ai" id="element138" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 284.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.219;0.25;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_6">
+      <use xlink:href="#BuildBrick.ai" id="element137" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 279.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.188;0.219;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_5">
+      <use xlink:href="#BuildBrick.ai" id="element136" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 274.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.156;0.188;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_4">
+      <use xlink:href="#BuildBrick.ai" id="element135" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 268.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.125;0.156;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_3">
+      <use xlink:href="#BuildBrick.ai" id="element134" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 263.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.094;0.125;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_2">
+      <use xlink:href="#BuildBrick.ai" id="element133" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 258)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.063;0.094;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_1">
+      <use xlink:href="#BuildBrick.ai" id="element132" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 252.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;0.063;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_8_0">
+      <use xlink:href="#BuildBrick.ai" id="element131" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 247.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;1" values="inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_32">
+      <g id="element130" overflow="visible">
+        <g id="Symbol_31_0">
+          <use xlink:href="#BuildBrick.ai" id="element272" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 419.05)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;1;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_7_31">
+      <use xlink:href="#BuildBrick.ai" id="element129" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 413.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.969;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_7_30">
+      <use xlink:href="#BuildBrick.ai" id="element128" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 408.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.938;0.969;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_29">
+      <use xlink:href="#BuildBrick.ai" id="element127" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 402.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.906;0.938;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_28">
+      <use xlink:href="#BuildBrick.ai" id="element126" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 397.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.875;0.906;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_27">
+      <use xlink:href="#BuildBrick.ai" id="element125" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 392.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.844;0.875;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_26">
+      <use xlink:href="#BuildBrick.ai" id="element124" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 386.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.813;0.844;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_25">
+      <use xlink:href="#BuildBrick.ai" id="element123" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 381.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.781;0.813;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_24">
+      <use xlink:href="#BuildBrick.ai" id="element122" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 376.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.75;0.781;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_23">
+      <use xlink:href="#BuildBrick.ai" id="element121" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 370.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.719;0.75;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_22">
+      <use xlink:href="#BuildBrick.ai" id="element120" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 365.35)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.688;0.719;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_21">
+      <use xlink:href="#BuildBrick.ai" id="element119" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 360)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.656;0.688;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_20">
+      <use xlink:href="#BuildBrick.ai" id="element118" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 354.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.625;0.656;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_19">
+      <use xlink:href="#BuildBrick.ai" id="element117" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 349.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.594;0.625;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_18">
+      <use xlink:href="#BuildBrick.ai" id="element116" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 343.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.563;0.594;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_17">
+      <use xlink:href="#BuildBrick.ai" id="element115" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 338.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.531;0.563;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_16">
+      <use xlink:href="#BuildBrick.ai" id="element114" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 333.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.5;0.531;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_15">
+      <use xlink:href="#BuildBrick.ai" id="element113" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 327.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.469;0.5;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_14">
+      <use xlink:href="#BuildBrick.ai" id="element112" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 322.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.438;0.469;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_13">
+      <use xlink:href="#BuildBrick.ai" id="element111" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 317.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.406;0.438;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_12">
+      <use xlink:href="#BuildBrick.ai" id="element110" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 311.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.375;0.406;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_11">
+      <use xlink:href="#BuildBrick.ai" id="element109" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 306.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.344;0.375;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_10">
+      <use xlink:href="#BuildBrick.ai" id="element108" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 300.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.313;0.344;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_9">
+      <use xlink:href="#BuildBrick.ai" id="element107" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 295.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.281;0.313;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_8">
+      <use xlink:href="#BuildBrick.ai" id="element106" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 290.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.25;0.281;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_7">
+      <use xlink:href="#BuildBrick.ai" id="element105" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 284.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.219;0.25;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_6">
+      <use xlink:href="#BuildBrick.ai" id="element104" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 279.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.188;0.219;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_5">
+      <use xlink:href="#BuildBrick.ai" id="element103" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 274.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.156;0.188;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_4">
+      <use xlink:href="#BuildBrick.ai" id="element102" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 268.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.125;0.156;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_3">
+      <use xlink:href="#BuildBrick.ai" id="element101" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 263.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.094;0.125;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_2">
+      <use xlink:href="#BuildBrick.ai" id="element100" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 258)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.063;0.094;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_1">
+      <use xlink:href="#BuildBrick.ai" id="element99" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 252.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;0.063;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_7_0">
+      <use xlink:href="#BuildBrick.ai" id="element98" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 247.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;1" values="inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_32">
+      <g id="element97" overflow="visible">
+        <g id="Symbol_29_0">
+          <use xlink:href="#BuildBrick.ai" id="element271" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 419.05)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;1;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_6_31">
+      <use xlink:href="#BuildBrick.ai" id="element96" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 413.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.969;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_6_30">
+      <use xlink:href="#BuildBrick.ai" id="element95" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 408.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.938;0.969;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_29">
+      <use xlink:href="#BuildBrick.ai" id="element94" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 402.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.906;0.938;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_28">
+      <use xlink:href="#BuildBrick.ai" id="element93" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 397.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.875;0.906;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_27">
+      <use xlink:href="#BuildBrick.ai" id="element92" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 392.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.844;0.875;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_26">
+      <use xlink:href="#BuildBrick.ai" id="element91" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 386.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.813;0.844;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_25">
+      <use xlink:href="#BuildBrick.ai" id="element90" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 381.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.781;0.813;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_24">
+      <use xlink:href="#BuildBrick.ai" id="element89" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 376.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.75;0.781;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_23">
+      <use xlink:href="#BuildBrick.ai" id="element88" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 370.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.719;0.75;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_22">
+      <use xlink:href="#BuildBrick.ai" id="element87" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 365.35)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.688;0.719;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_21">
+      <use xlink:href="#BuildBrick.ai" id="element86" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 360)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.656;0.688;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_20">
+      <use xlink:href="#BuildBrick.ai" id="element85" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 354.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.625;0.656;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_19">
+      <use xlink:href="#BuildBrick.ai" id="element84" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 349.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.594;0.625;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_18">
+      <use xlink:href="#BuildBrick.ai" id="element83" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 343.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.563;0.594;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_17">
+      <use xlink:href="#BuildBrick.ai" id="element82" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 338.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.531;0.563;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_16">
+      <use xlink:href="#BuildBrick.ai" id="element81" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 333.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.5;0.531;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_15">
+      <use xlink:href="#BuildBrick.ai" id="element80" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 327.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.469;0.5;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_14">
+      <use xlink:href="#BuildBrick.ai" id="element79" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 322.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.438;0.469;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_13">
+      <use xlink:href="#BuildBrick.ai" id="element78" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 317.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.406;0.438;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_12">
+      <use xlink:href="#BuildBrick.ai" id="element77" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 311.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.375;0.406;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_11">
+      <use xlink:href="#BuildBrick.ai" id="element76" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 306.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.344;0.375;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_10">
+      <use xlink:href="#BuildBrick.ai" id="element75" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 300.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.313;0.344;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_9">
+      <use xlink:href="#BuildBrick.ai" id="element74" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 295.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.281;0.313;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_8">
+      <use xlink:href="#BuildBrick.ai" id="element73" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 290.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.25;0.281;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_7">
+      <use xlink:href="#BuildBrick.ai" id="element72" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 284.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.219;0.25;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_6">
+      <use xlink:href="#BuildBrick.ai" id="element71" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 279.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.188;0.219;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_5">
+      <use xlink:href="#BuildBrick.ai" id="element70" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 274.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.156;0.188;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_4">
+      <use xlink:href="#BuildBrick.ai" id="element69" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 268.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.125;0.156;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_3">
+      <use xlink:href="#BuildBrick.ai" id="element68" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 263.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.094;0.125;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_2">
+      <use xlink:href="#BuildBrick.ai" id="element67" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 258)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.063;0.094;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_1">
+      <use xlink:href="#BuildBrick.ai" id="element66" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 252.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;0.063;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_6_0">
+      <use xlink:href="#BuildBrick.ai" id="element65" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 2.25 247.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.031;1" values="inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_32">
+      <g id="element64" overflow="visible">
+        <g id="Symbol_27_0">
+          <use xlink:href="#BuildBrick.ai" id="element270" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 330.65)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;1;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_5_31">
+      <use xlink:href="#BuildBrick.ai" id="element63" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 325.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.969;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_5_30">
+      <use xlink:href="#BuildBrick.ai" id="element62" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 319.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.938;0.969;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_29">
+      <use xlink:href="#BuildBrick.ai" id="element61" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 314.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.906;0.938;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_28">
+      <use xlink:href="#BuildBrick.ai" id="element60" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 309.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.875;0.906;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_27">
+      <use xlink:href="#BuildBrick.ai" id="element59" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 303.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.844;0.875;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_26">
+      <use xlink:href="#BuildBrick.ai" id="element58" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 298.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.813;0.844;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_25">
+      <use xlink:href="#BuildBrick.ai" id="element57" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 293.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.781;0.813;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_24">
+      <use xlink:href="#BuildBrick.ai" id="element56" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 287.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.75;0.781;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_23">
+      <use xlink:href="#BuildBrick.ai" id="element55" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 282.35)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.719;0.75;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_22">
+      <use xlink:href="#BuildBrick.ai" id="element54" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 277)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.688;0.719;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_21">
+      <use xlink:href="#BuildBrick.ai" id="element53" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 271.65)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.656;0.688;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_20">
+      <use xlink:href="#BuildBrick.ai" id="element52" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 266.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.625;0.656;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_19">
+      <use xlink:href="#BuildBrick.ai" id="element51" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 260.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.594;0.625;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_18">
+      <use xlink:href="#BuildBrick.ai" id="element50" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 255.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.563;0.594;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_17">
+      <use xlink:href="#BuildBrick.ai" id="element49" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 250.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.531;0.563;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_16">
+      <use xlink:href="#BuildBrick.ai" id="element48" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 244.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.5;0.531;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_15">
+      <use xlink:href="#BuildBrick.ai" id="element47" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 239.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.469;0.5;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_14">
+      <use xlink:href="#BuildBrick.ai" id="element46" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 234.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.438;0.469;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_13">
+      <use xlink:href="#BuildBrick.ai" id="element45" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 228.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.406;0.438;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_12">
+      <use xlink:href="#BuildBrick.ai" id="element44" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 223.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.375;0.406;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_11">
+      <use xlink:href="#BuildBrick.ai" id="element43" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 217.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.344;0.375;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_10">
+      <use xlink:href="#BuildBrick.ai" id="element42" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 212.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.313;0.344;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_9">
+      <use xlink:href="#BuildBrick.ai" id="element41" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 207.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.281;0.313;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_8">
+      <use xlink:href="#BuildBrick.ai" id="element40" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 201.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.25;0.281;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_5_7">
+      <g id="element39" overflow="visible">
+        <g id="Symbol_25_0">
+          <use xlink:href="#BuildBrick.ai" id="element269" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 284.2 196.5)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.219;0.25;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_32">
+      <g id="element38" overflow="visible">
+        <g id="Symbol_23_0">
+          <use xlink:href="#BuildBrick.ai" id="element268" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 330.65)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;1;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_4_31">
+      <use xlink:href="#BuildBrick.ai" id="element37" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 325.3)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.969;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_4_30">
+      <use xlink:href="#BuildBrick.ai" id="element36" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 319.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.938;0.969;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_29">
+      <use xlink:href="#BuildBrick.ai" id="element35" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 314.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.906;0.938;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_28">
+      <use xlink:href="#BuildBrick.ai" id="element34" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 309.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.875;0.906;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_27">
+      <use xlink:href="#BuildBrick.ai" id="element33" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 303.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.844;0.875;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_26">
+      <use xlink:href="#BuildBrick.ai" id="element32" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 298.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.813;0.844;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_25">
+      <use xlink:href="#BuildBrick.ai" id="element31" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 293.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.781;0.813;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_24">
+      <use xlink:href="#BuildBrick.ai" id="element30" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 287.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.75;0.781;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_23">
+      <use xlink:href="#BuildBrick.ai" id="element29" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 282.35)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.719;0.75;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_22">
+      <use xlink:href="#BuildBrick.ai" id="element28" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 276.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.688;0.719;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_21">
+      <use xlink:href="#BuildBrick.ai" id="element27" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 271.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.656;0.688;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_20">
+      <use xlink:href="#BuildBrick.ai" id="element26" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 266.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.625;0.656;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_19">
+      <use xlink:href="#BuildBrick.ai" id="element25" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 260.85)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.594;0.625;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_18">
+      <use xlink:href="#BuildBrick.ai" id="element24" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 255.5)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.563;0.594;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_17">
+      <use xlink:href="#BuildBrick.ai" id="element23" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 250.15)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.531;0.563;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_16">
+      <use xlink:href="#BuildBrick.ai" id="element22" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 244.75)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.5;0.531;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_15">
+      <use xlink:href="#BuildBrick.ai" id="element21" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 239.4)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.469;0.5;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_4_14">
+      <use xlink:href="#BuildBrick.ai" id="element20" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 93.2 234.05)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.438;0.469;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_32">
+      <g id="element19" overflow="visible">
+        <g id="Symbol_21_0">
+          <use xlink:href="#BuildBrick.ai" id="element267" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 241.9)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;1;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_3_31">
+      <use xlink:href="#BuildBrick.ai" id="element18" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 236.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.969;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_3_30">
+      <use xlink:href="#BuildBrick.ai" id="element17" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 231.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.938;0.969;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_29">
+      <use xlink:href="#BuildBrick.ai" id="element16" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 225.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.906;0.938;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_28">
+      <use xlink:href="#BuildBrick.ai" id="element15" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 220.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.875;0.906;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_27">
+      <use xlink:href="#BuildBrick.ai" id="element14" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 215.1)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.844;0.875;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_26">
+      <use xlink:href="#BuildBrick.ai" id="element13" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 209.7)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.813;0.844;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_25">
+      <use xlink:href="#BuildBrick.ai" id="element12" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 204.35)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.781;0.813;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_24">
+      <use xlink:href="#BuildBrick.ai" id="element11" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 198.95)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.75;0.781;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_23">
+      <use xlink:href="#BuildBrick.ai" id="element10" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 193.6)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.719;0.75;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_22">
+      <use xlink:href="#BuildBrick.ai" id="element9" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 188.25)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.688;0.719;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_3_21">
+      <use xlink:href="#BuildBrick.ai" id="element8" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 384.25 182.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.656;0.688;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_2_32">
+      <use xlink:href="#BuildBrick.ai" id="element7" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 241.9)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;1;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_2_31">
+      <use xlink:href="#BuildBrick.ai" id="element6" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 236.55)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.969;1" values="none;inline;none"/>
+    </g>
+    <g id="Scene_1_2_30">
+      <use xlink:href="#BuildBrick.ai" id="element5" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 231.2)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.938;0.969;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_2_29">
+      <use xlink:href="#BuildBrick.ai" id="element4" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 225.8)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.906;0.938;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_2_28">
+      <use xlink:href="#BuildBrick.ai" id="element3" width="295" height="189" x="-44" y="-41" overflow="visible" transform="matrix(1 0 0 1 193.25 220.45)"/>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.875;0.906;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_2_27">
+      <g id="element2" overflow="visible">
+        <g id="Symbol_19_0">
+          <use xlink:href="#BuildBrick.ai" id="element265" width="295" height="189" x="-44" y="-41" overflow="visible" viewBox="-44 -40.55 295 188.40000000000003" transform="matrix(1 0 0 1 193.25 215.1)"/>
+        </g>
+      </g>
+      <animate attributeName="display" begin="0s" repeatCount="indefinite" dur="1.333s" keyTimes="0;0.844;0.875;1" values="none;inline;none;none"/>
+    </g>
+    <g id="Scene_1_1_0">
+      <g id="element1" overflow="visible">
+        <g id="Symbol_17_0">
+          <g id="element264" overflow="visible">
+            <g id="BuildCircFrame.ai_0">
+              <g id="element280">
+                <path id="path1" fill="#FFF" d="M599.25,0.05 L0,0.05 0,600 599.25,600 599.25,0.05z M488.85,310.6 C488.85,413.95 405.05,497.8 301.65,497.8 Q263.55,497.8 228.8,483.1 195.2,468.85 169.3,442.95 143.35,417.05 129.15,383.45 114.45,348.65 114.45,310.6 C114.45,207.2 198.25,123.35 301.65,123.35 405.05,123.35 488.85,207.2 488.85,310.6z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Scene_1_0_0">
+      <g id="element" overflow="visible">
+        <g id="Symbol_15_0">
+          <g id="element263" overflow="visible">
+            <g id="BuildCirc.ai_0">
+              <g id="element279">
+                <path id="path" fill="none" stroke="#1D4858" stroke-width="18.85" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="10" d="M485.2,304.05 C485.2,200.65 401.4,116.8 298,116.8 Q259.9,116.8 225.15,131.5 191.55,145.75 165.65,171.65 139.7,197.55 125.5,231.15 110.8,265.95 110.8,304.05 C110.8,407.4 194.6,491.25 298,491.25 401.4,491.25 485.2,407.4 485.2,304.05z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

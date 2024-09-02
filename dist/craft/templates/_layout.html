@@ -1,0 +1,479 @@
+{#
+ # Layout template
+ # ---------------
+ #
+ # This template defines your site’s global layout. It can be
+ # “extended” by other templates to fill in the gaps.
+ #
+ # See Twig’s Template Inheritance documentation for more details:
+ # http://twig.sensiolabs.org/doc/templates.html#template-inheritance
+ #}
+
+<!doctype html>
+
+<!--[if lt IE 7]>
+
+	<html lang="en-US" class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7">
+
+<![endif]-->
+
+<!--[if IE 7]>
+
+	<html lang="en-US" class="no-js lt-ie10 lt-ie9 lt-ie8">
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+	<html lang="en-US" class="no-js lt-ie10 lt-ie9">
+
+<![endif]-->
+
+<!--[if IE 9]>
+
+	<html lang="en-US" class="no-js lt-ie10">
+
+<![endif]-->
+
+<!--[if gt IE 9]><!-->
+
+	<html lang="en-US" class="no-js">
+
+<!--<![endif]-->
+
+<head>
+
+	<meta charset="utf-8" />
+
+	<!--[if IE]>
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+
+	<![endif]-->
+
+	<title>{% if entry.title is defined %}{{ entry.title }} | {% endif %}{{ siteName }}</title>
+
+	<meta name="description" content="" />
+
+	<meta name="keywords" content="" />
+
+	<meta name="author" content="" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+	{% if googleTools.siteVerification %}
+
+		<meta name="google-site-verification" content="{{ googleTools.siteVerification }}" />
+
+	{% endif %}
+
+	<link rel="shortcut icon" href="/a/img/favicon.png" />
+
+	<link rel="apple-touch-icon" href="/a/img/touch-icon.png" />
+
+	<link type="text/css" href="/a/css/screen.css" rel="stylesheet" media="screen, projection" />
+
+	<link type="text/css" href="/a/css/print.css" rel="stylesheet" media="print" />
+
+	<link type="text/css" href="//f.fontdeck.com/s/css/XlZhgFnikEdtiJMXs9Dy8eVyw+M/www.archipel.dev/41772.css" rel="stylesheet" />
+
+	<script src="/a/js/modernizr.js"></script>
+
+	<meta name="twitter:card" content="" />
+	<meta name="twitter:site" content="" />
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:description" content="" />
+	<meta name="twitter:url" content="" />
+
+	<meta property="og:title" content="" />
+	<meta property="og:description" content="" />
+	<meta property="og:url" content="" />
+	<meta property="og:image" content="" />
+
+</head>
+
+<body id="{{ craft.request.getSegment(1) ?: 'home' }}">
+
+	<header id="header" role="banner">
+
+		<div class="wrap">
+
+			<div id="logo">
+
+				<a href="{{ siteUrl }}">{{ siteName }} &bull; NYC</a>
+
+			</div>
+
+			<nav id="nav" role="navigation">
+
+				<div class="toggle">
+
+					<span>Menu</span>
+
+				</div>
+
+				<ul>
+
+					<li class="work{% if craft.request.firstSegment == 'work' %} active{% endif %}">
+
+						<a href="#projects">Work</a>
+
+					</li>
+
+					<li class="about{% if craft.request.firstSegment == 'about' %} active{% endif %}">
+
+						<a href="{{ url('about') }}">About</a>
+
+					</li>
+
+				</ul>
+
+			</nav>
+
+		</div>
+
+	</header>
+
+	{% if craft.request.firstSegment == '' %}
+
+		<div id="welcome">
+
+			<div class="wrap">
+
+				<div class="inner-wrap">
+
+					<div class="inner-inner-wrap">
+
+						<div class="inner-inner-inner-wrap">
+
+							<h1>
+
+								<img src="/a/img/studio-archipel-logo.svg" alt="Welcome" />
+
+							</h1>
+
+							<div class="icons">
+
+								<div class="group">
+
+									<div class="concept">
+
+										{% include "inc/concept.html" %}
+
+									</div>
+
+									<div class="design">
+
+										{% include "inc/design.html" %}
+
+									</div>
+
+									<div class="create">
+
+										{% include "inc/create.html" %}
+
+									</div>
+
+								</div>
+
+							</div>
+
+							<div class="disciplines">
+
+								<ul>
+
+									<li>Branding</li>
+
+									<li>UI &amp; UX</li>
+
+									<li>Motion Graphics</li>
+
+									<li>Digital</li>
+
+									<li>Print</li>
+
+								</ul>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="view-work">
+
+					<a href="#projects">
+
+						Get to work <span class="arrow">&darr;</span>
+
+					</a>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	{% endif %}
+
+	<main id="content">
+
+		<div class="wrap">
+
+			{% block content %}
+
+				<p>If you see me, you haven’t set your <code>{% verbatim %}{% block content %}…{% endblock %}{% endverbatim %}</code> yet.</p>
+
+				<p>See Twig’s <a href="http://twig.sensiolabs.org/doc/templates.html#template-inheritance">Template Inheritance</a> documentation for an explanation.</p>
+
+			{% endblock %}
+
+		</div>
+
+	</main>
+
+	<div id="projects">
+
+		<div class="wrap">
+
+			{% if craft.request.firstSegment == 'work' %}
+
+				<div class="header">
+
+					<h2 class="title">All Projects</h2>
+
+				</div>
+
+			{% endif %}
+
+			<ul>
+
+				{% for workEntry in featuredWork.featured %}
+
+					<li>
+
+						<a href="{{ workEntry.url }}">
+
+							{% for image in workEntry.thumbnail %}
+
+								<img src="{{ image.url }}" alt="{{ workEntry.title }}" />
+
+							{% else %}
+
+								<img src="/a/img/thumbnail-placeholder.svg" alt="{{ workEntry.title }}" />
+
+							{% endfor %}
+
+							<div class="overlay">
+
+								<div class="inner-wrap">
+
+									<span>
+
+										<h2 class="title">{{ workEntry.title }}</h2>
+
+										<p class="headline">{{ workEntry.headline }}</p>
+
+									</span>
+
+								</div>
+
+							</div>
+
+						</a>
+
+					</li>
+
+				{% endfor %}
+
+				<li class="gap"></li>
+
+				<li class="gap"></li>
+
+			</ul>
+
+		</div>
+
+	</div>
+
+	<div id="pre-footer">
+
+		<div class="wrap">
+
+			<div class="summary">
+
+				{{ summary.body }}
+
+			</div>
+
+			<div class="vcard">
+
+				<div class="fn n org">{{ siteName }}</div>
+
+				<div class="email">
+
+					<a href="mailto:{{ contactInfo.email }}">{{ contactInfo.email }}</a>
+
+				</div>
+
+				<div class="tel">{{ contactInfo.phone }}</div>
+
+				<div class="adr">
+
+					<div class="street-address">{{ contactInfo.street }}</div>
+
+					<div class="location">
+
+						<span class="locality">{{ contactInfo.city }}</span>
+
+						<span class="region">{{ contactInfo.state }}</span>
+
+						<span class="postal-code">{{ contactInfo.zipcode }}</span>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="connect">
+
+				<ul>
+
+					{% if socialMedia.facebook %}
+
+						<li class="facebook">
+
+							<a href="{{ socialMedia.facebook }}" rel="external">Facebook</a>
+
+						</li>
+
+					{% endif %}
+
+					{% if socialMedia.linkedin %}
+
+						<li class="linkedin">
+
+							<a href="{{ socialMedia.linkedin }}" rel="external">LinkedIn</a>
+
+						</li>
+
+					{% endif %}
+
+					{% if socialMedia.skype %}
+
+						<li class="skype">
+
+							<a href="{{ socialMedia.skype }}" rel="external">Skype</a>
+
+						</li>
+
+					{% endif %}
+
+					{% if socialMedia.behance %}
+
+						<li class="behance">
+
+							<a href="{{ socialMedia.behance }}" rel="external">Behance</a>
+
+						</li>
+
+					{% endif %}
+
+					{% if socialMedia.tumblr %}
+
+						<li class="tumblr">
+
+							<a href="{{ socialMedia.tumblr }}" rel="external">Tumblr</a>
+
+						</li>
+
+					{% endif %}
+
+					{% if socialMedia.vimeo %}
+
+						<li class="vimeo">
+
+							<a href="{{ socialMedia.vimeo }}" rel="external">Vimeo</a>
+
+						</li>
+
+					{% endif %}
+
+				</ul>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<footer id="footer" role="contentinfo">
+
+		<div class="wrap">
+
+			<div id="made-by">
+
+				<p>Studio Archipel is the design division of <span><a href="http://www.archipel.co" rel="external">archipel.co</a></span></p>
+
+			</div>
+
+			<p id="copyright">
+
+				<small>Copyright {{ now.year }} <span>{{ siteName }}</span>. All rights reserved.</small>
+
+			</p>
+
+		</div>
+
+	</footer>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+	<script>
+
+		window.jQuery || document.write("<script src='/a/js/jquery.js'>\x3C/script>")
+
+	</script>
+
+	<!--[if lt IE 9]>
+
+		<script src="/a/js/selectivizr.js"></script>
+
+	<![endif]-->
+
+	<script src="/a/js/matchmedia.js"></script>
+
+	<script src="/a/js/picturefill.js"></script>
+
+	<script src="/a/js/scroll.js"></script>
+
+	<script src="/a/js/fitvids.js"></script>
+
+	<script src="/a/js/functions.js"></script>
+
+	{% if googleTools.analytics %}
+
+	<script>
+
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', '{{ googleTools.analytics }}', 'craft.dev');
+
+		ga('send', 'pageview');
+
+	</script>
+
+	{% endif %}
+
+</body>
+
+</html>

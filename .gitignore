@@ -1,0 +1,10 @@
+.DS_Store
+*.nova
+*.code-workspace
+*.sql
+dist/craft/app
+dist/craft/config
+dist/craft/plugins
+dist/craft/storage
+dist/craft/web.config
+Gemfile.lock

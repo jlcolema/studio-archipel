@@ -1,0 +1,53 @@
+
+/*-------------------------------------------
+	Footer
+-------------------------------------------*/
+
+
+#footer {
+
+	padding: 40px 0 50px 0;
+	color: $white;
+	background: $archipel;
+	border-top: 1px solid $white;
+
+	.wrap {}
+
+}
+
+		#made-by {
+
+			padding: 120px 0 0 0;
+			color: $white;
+			@include font-size(12);
+			line-height: (16/12) + em;
+			text-align: center;
+			background: url(/a/img/archipel-logo.svg) center top no-repeat;
+			background-size: 90px 100px;
+
+			p {
+
+				margin: 0;
+
+			}
+
+				span {
+
+					display: block;
+					text-transform: uppercase;
+
+				}
+
+					a {
+
+						color: $white;
+
+					}
+
+		}
+
+		#copyright {
+
+			display: none;
+
+		}

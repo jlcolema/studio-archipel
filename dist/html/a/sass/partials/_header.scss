@@ -1,0 +1,156 @@
+
+/*-------------------------------------------
+	Header
+-------------------------------------------*/
+
+
+#header {
+
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	color: $white;
+	background: $studio;
+	z-index: 9999;
+
+	.wrap {
+
+		position: relative;
+		padding: 0;
+		height: 40px;
+
+		@media screen and (min-width: 500px) {
+
+			height: 50px;
+
+		}
+
+	}
+
+}
+
+		#logo {
+
+			@include font-size(20);
+			line-height: (25/20) + em;
+			@include apercu-bold;
+			text-transform: uppercase;
+
+			a {
+
+				display: inline-block;
+				height: 40px;
+				padding: 8px 10px 0 10px;
+				color: $white;
+
+				@media screen and (min-width: 500px) {
+
+					height: 50px;
+					padding: 13px 20px 0 20px;
+
+				}
+
+				&:hover {}
+
+			}
+
+		}
+
+		#nav {
+
+			.toggle {
+
+				position: absolute;
+				right: 0;
+				top: 0;
+				width: 40px;
+				height: 40px;
+				background: url(/a/img/nav-toggle.svg);
+				@include hide-text;
+				cursor: pointer;
+				z-index: 5;
+
+				@media screen and (min-width: 500px) {
+
+					display: none;
+
+				}
+
+			}
+
+			ul {
+
+				display: none;
+				margin: 0;
+				padding: 0;
+				list-style: none;
+				background: $paper;
+
+				@media screen and (min-width: 500px) {
+
+					display: block;
+					position: absolute;
+					right: 5px;
+					top: 0;
+					background: none;
+					@include group;
+					z-index: 5;
+
+				}
+
+				// While open on smaller screens
+
+				&.open {
+
+					display: block;
+
+				}
+
+			}
+
+				li {
+
+					@include font-size(20);
+					line-height: (25/20) + em;
+					@include apercu-bold;
+					border-bottom: 1px solid $studio;
+
+					@media screen and (min-width: 500px) {
+
+						float: left;
+						border: none;
+
+					}
+
+				}
+
+					a {
+
+						display: block;
+						height: 40px;
+						padding: 8px 10px 0 10px;
+						color: $studio;
+
+						@media screen and (min-width: 500px) {
+
+							height: 50px;
+							padding: 13px 15px 0 15px;
+							color: $white;
+							@include transition(color 0.35s);
+
+						}
+
+						&:hover {
+
+							@media screen and (min-width: 500px) {
+
+								color: $hilite;
+
+							}
+
+						}
+
+					}
+
+		}

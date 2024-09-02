@@ -1,0 +1,41 @@
+
+/*-------------------------------------------
+	Layouts
+-------------------------------------------*/
+
+
+html {}
+
+body {
+
+	padding-top: 40px;
+
+	@media screen and (min-width: 500px) {
+
+		padding-top: 50px;
+
+	}
+
+}
+
+	#header {}
+
+	#welcome {}
+
+	#content {
+
+		#work & {
+
+			padding-top: 20px;
+
+		}
+
+		.wrap {}
+
+	}
+
+		#main {}
+
+		#secondary {}
+
+	#footer {}

@@ -1,0 +1,143 @@
+
+/*-------------------------------------------
+	Main
+-------------------------------------------*/
+
+
+#main {
+
+	#work & {
+
+		margin: 0 0 24px 0;
+		padding: 20px;
+		background: #8ef6e4;
+
+		@media screen and (min-width: 640px) {
+
+			padding: 22px 31px 33px;
+
+		}
+
+	}
+
+}
+
+	/* Page Title */
+
+	h1 {}
+
+	/* Project */
+
+	.categories {
+
+		display: inline-block;
+		margin: 0 0 20px 0;
+
+		ul {
+
+			margin: 0;
+			padding: 4px 10px;
+			list-style: none;
+			background: $white;
+
+		}
+
+			li {
+
+				display: inline-block;
+				text-transform: uppercase;
+
+				&:after {
+
+					content: " • ";
+
+				}
+
+				&:last-of-type {
+
+					&:after {
+
+						content: "";
+
+					}
+
+				}
+
+			}
+
+	}
+
+	.overview {
+
+		width: 100%;
+		max-width: 900px;
+
+		p {
+
+			&:last-of-type {
+
+				margin: 0;
+
+			}
+
+		}
+
+	}
+
+	#samples {
+
+		@media screen and (min-width: 600px) {
+
+			margin: 0 0 24px 0;
+			text-align: justify;
+			@include placeholder;
+
+		}
+
+		.image,
+		.gif,
+		.video {
+
+			margin: 0 0 40px 0;
+
+			@media screen and (min-width: 600px) {
+
+				display: inline-block;
+				text-align: left;
+				vertical-align: top;
+
+			}
+
+			&.full {
+
+				width: 100%;
+
+			}
+
+			&.half {
+
+				@media screen and (min-width: 600px) {
+
+					width: 48.5%;
+
+				}
+
+				@media screen and (min-width: 800px) {
+
+					width: 48.75%;
+
+				}
+
+				@media screen and (min-width: 1000px) {
+
+					width: 49%;
+
+				}
+
+			}
+
+		}
+
+				img {}
+
+	}
